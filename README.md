@@ -25,12 +25,6 @@
  <!--파이썬 -->
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-<!-- 자바스크립트 -->
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-
-<!-- Django -->
- <img src="https://img.shields.io/badge/django-6DB33F?style=for-the-badge&logo=django&logoColor=white">
-
 <!-- HTML -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 
@@ -39,6 +33,14 @@
 
 <!-- bootstrap -->
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+<!-- Django -->
+ <img src="https://img.shields.io/badge/django-6DB33F?style=for-the-badge&logo=django&logoColor=white">
+
+<!-- 자바스크립트 -->
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+
+</br>
 
 <!-- git -->
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
