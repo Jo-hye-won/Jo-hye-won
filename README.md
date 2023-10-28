@@ -1,11 +1,14 @@
 <div align="center"> 
 
 #   Welcome my github profile ! :wave:
+<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jo-hye-won&theme=material-palenight&show_icons=true)
   
 ## :deciduous_tree: It's ME! 
 <a href="https://velog.io/@turtle_hw" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-
+<br/>
+<br/>
+<br/>
 ##  :purple_heart: Stack
   
  <br/>
@@ -23,6 +26,9 @@
 
 <!-- CSS -->
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+
+<!-- bootstrap -->
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 
 <!-- git -->
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
