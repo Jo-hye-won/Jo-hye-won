@@ -6,6 +6,9 @@
  <br/>
  <br/>
   
+## :deciduous_tree: It's ME! :deciduous_tree:
+<a href="https://velog.io/@turtle_hw" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+
 ##  :clipboard: Once I've Used 
   
  <br/>
@@ -26,5 +29,5 @@
 ## :pencil2: Study log
  
   <br/>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@turtle_hw) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=hyewon)](https://velog.io/@turtle_hw) 
 </div>
