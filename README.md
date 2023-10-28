@@ -11,7 +11,9 @@
 <br/>
 <a href="https://velog.io/@turtle_hw" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
-[[!Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=turtle_hw)](https://velog.io/@turtle_hw)
+<br/>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=turtle_hw)](https://velog.io/@turtle_hw)
 
 
 <br/>
