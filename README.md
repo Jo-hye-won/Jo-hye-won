@@ -1,7 +1,6 @@
 <div align="center"> 
 
-<<<<<<< HEAD
-![header](https://capsule-render.vercel.app/api?type=waving&color=purple&height=150&section=header&text=Here is hye_won's github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=header&text=Here is hye_won's github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 
 #  :wave: Welcome my github profile !
