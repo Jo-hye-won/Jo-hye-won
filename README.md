@@ -1,7 +1,6 @@
 <div align="center"> 
 
 #  :wave: Welcome my github profile !
->>>>>>> 69bbdf208ff8c1fa3ddbd9db424d60ea779a6ecf
 
   
  <br/>
@@ -27,6 +26,5 @@
 ## :pencil2: Study log
  
   <br/>
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@turtle_hw)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@turtle_hw) 
 </div>
