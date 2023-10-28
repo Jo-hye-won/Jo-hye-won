@@ -1,14 +1,17 @@
 <div align="center"> 
 
+<<<<<<< HEAD
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=893107&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
-####  :wave: Welcome my github profile !
+
+#  :wave: Welcome my github profile !
+>>>>>>> 69bbdf208ff8c1fa3ddbd9db424d60ea779a6ecf
 
   
  <br/>
  <br/>
   
-####  :clipboard: Once I've Used 
+##  :clipboard: Once I've Used 
   
  <br/>
 
@@ -25,7 +28,7 @@
    <br/>
    <br/>
  
-#### :pencil2: Study log
+## :pencil2: Study log
  
   <br/>
 
