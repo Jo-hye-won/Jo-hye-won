@@ -3,12 +3,14 @@
 #   Welcome my github profile ! :wave:
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jo-hye-won&theme=material-palenight&show_icons=true)
-  
+
+<br/>
 ## :deciduous_tree: It's ME! 
+<br/>
 <a href="https://velog.io/@turtle_hw" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <br/>
 <br/>
-<br/>
+
 ##  :purple_heart: Stack
   
  <br/>
@@ -41,9 +43,5 @@
  
    <br/>
    <br/>
- 
-## :pencil2: Study log
- 
-  <br/>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=hyewon)](https://velog.io/@turtle_hw) 
+
 </div>
