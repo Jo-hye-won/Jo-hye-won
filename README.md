@@ -1,12 +1,12 @@
 <div align="center"> 
 
-####  :wave: Welcome my github profile !
+#  :wave: Welcome my github profile !
 
   
  <br/>
  <br/>
   
-####  :clipboard: Once I've Used 
+##  :clipboard: Once I've Used 
   
  <br/>
 
@@ -23,7 +23,7 @@
    <br/>
    <br/>
  
-#### :pencil2: Study log
+## :pencil2: Study log
  
   <br/>
 
