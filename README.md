@@ -2,8 +2,12 @@
 
 #   Welcome my github profile ! :wave:
 <br/>
+<details>
+<summary></summary>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jo-hye-won&theme=material-palenight&show_icons=true)
+
+</details>
 
 <br/>
 
