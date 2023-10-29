@@ -3,7 +3,7 @@
 #   Welcome my github profile ! :wave:
 <br/>
 <details>
-<summary></summary>
+<summary>GitHub stats</summary>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jo-hye-won&theme=material-palenight&show_icons=true)
 
@@ -16,10 +16,12 @@
 <a href="https://velog.io/@turtle_hw" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 <br/>
+<details>
+<summary>Go to Velog_!</summary>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=turtle_hw)](https://velog.io/@turtle_hw)
 
-
+</details>
 <br/>
 <br/>
 
