@@ -11,7 +11,7 @@
 
 <br/>
 
-## :deciduous_tree: It's ME! 
+## :deciduous_tree: It's me! 
 <br/>
 <a href="https://velog.io/@turtle_hw" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
