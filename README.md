@@ -3,8 +3,8 @@
 #   Welcome my github profile ! :wave:
 <br/>
 <details>
-<summary>GitHub stats</summary>
-
+<!-- <summary>GitHub stats</summary> -->
+Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jo-hye-won&theme=material-palenight&show_icons=true)
 
 </details>
