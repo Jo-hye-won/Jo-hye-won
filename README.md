@@ -4,6 +4,7 @@
 
 ## :deciduous_tree: It's me! 
 <br/>
+
 <a href="https://velog.io/@turtle_hw" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <summary>Go to Velog 💨</summary>
 
 <br/>
@@ -17,6 +18,10 @@
 <br/>
 <!-- <details>
 <summary>GitHub stats</summary>
+
+<!-- <details> -->
+<!-- <summary>GitHub stats</summary> -->
+<!-- Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jo-hye-won&theme=material-palenight&show_icons=true)
 
