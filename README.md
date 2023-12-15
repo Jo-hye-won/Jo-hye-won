@@ -1,13 +1,14 @@
 <div align="center"> 
 
-#   Welcome my github profile ! :wave:
+#   Welcome my github profile It's me! :wave:
 
-## :deciduous_tree: It's me! 
+<!-- ## :deciduous_tree:  -->
 <br/>
 
-<a href="https://velog.io/@turtle_hw" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <summary>Go to Velog 💨</summary>
+<a href="https://velog.io/@turtle_hw" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>  <br /> Go to Velog 💨 </a> 
+<!-- <summary>Go to Velog </summary> -->
 
-<br/>
+<!-- <br/> -->
 <!-- <details> -->
 
 <br />
