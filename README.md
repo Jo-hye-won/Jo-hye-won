@@ -1,22 +1,33 @@
-<div align="center"> 
+<!-- <div align="center">  -->
 
-#   Welcome my github profile It's me! :wave:
+
+#   Welcome my github profile 
+
+
+<div style="display: flex; justify-content: space-between;">
+<div style="display:flex felx-direction: row;">
+
+## It's me! :wave:
 
 <!-- ## :deciduous_tree:  -->
-<br/>
+<!-- <br/> -->
 
-<a href="https://velog.io/@turtle_hw" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>  <br /> Go to Velog 💨 </a> 
+<a href="https://velog.io/@turtle_hw" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>  
+
+<div>
+Go to Velog 💨 </a> 
 <!-- <summary>Go to Velog </summary> -->
 
 <!-- <br/> -->
 <!-- <details> -->
 
-<br />
+<!-- <br /> -->
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=turtle_hw)](https://velog.io/@turtle_hw)
 
 <!-- </details> -->
 <br/>
+</div>
 <!-- <details>
 <summary>GitHub stats</summary>
 
@@ -28,7 +39,10 @@
 
 </details> -->
 
-<br/>
+ </div>
+
+ 
+<div style="flex: 1;">
 
 ##  :purple_heart: Stack
   
@@ -73,3 +87,5 @@
    <br/>
 
 </div>
+</div>
+<!-- </div> -->
