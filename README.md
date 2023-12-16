@@ -1,11 +1,10 @@
 <!-- <div align="center">  -->
 
-
-#   Welcome my github profile 
+#  Welcome my github profile 
 
 
 <div style="display: flex; justify-content: space-between;">
-<div style="display:flex felx-direction: row;">
+<div style="display:flex 1 felx-direction: row;">
 
 ## It's me! :wave:
 
@@ -15,7 +14,7 @@
 <a href="https://velog.io/@turtle_hw" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>  
 
 <div>
-Go to Velog 💨 </a> 
+The latest article 💨 </a> 
 <!-- <summary>Go to Velog </summary> -->
 
 <!-- <br/> -->
@@ -41,8 +40,8 @@ Go to Velog 💨 </a>
 
  </div>
 
- 
-<div style="flex: 1;">
+
+<div style="flex 1;">
 
 ##  :purple_heart: Stack
   
