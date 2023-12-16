@@ -1,14 +1,13 @@
 <!-- <div align="center">  -->
 
-#  Welcome my github profile 
-## It's me! :wave:
+#  Welcome my github profile :wave:
+## It's me! 
 
 <!-- 
 <div style="display: flex; justify-content: space-between;">
 <div style="display:flex 1 felx-direction: row;"> -->
 
- 
-![Alt text](image.png)
+ ![Alt text](image-1.png)
 <!-- ## :deciduous_tree:  -->
 <!-- <br/> -->
 
