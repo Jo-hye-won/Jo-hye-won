@@ -1,21 +1,23 @@
 <!-- <div align="center">  -->
-![header](https://capsule-render.vercel.app/api?type=waving&color&height=200&section=header&text=Welcome%20%20%20my%20%20%20profile😊&fontSize=70)
-
+![header](https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Welcome%20%20%20my%20%20%20profile😊&fontSize=70)
+![Alt text](image-1.png)
+<!-- &color=B897FF -->
 <!-- #  Welcome my github profile :wave: -->
 
-# It's me! 
+<!-- # It's me!  -->
 
 <!-- 
 <div style="display: flex; justify-content: space-between;">
 <div style="display:flex 1 felx-direction: row;"> -->
 
- ![Alt text](image-1.png)
 <!-- ## :deciduous_tree:  -->
 <!-- <br/> -->
 
 <hr />
 
-### How about visiting my velog?
+
+# How about visiting my velog?
+
 <a href="https://velog.io/@turtle_hw" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>  
 
 The latest article 💨 </a> 
@@ -42,8 +44,9 @@ The latest article 💨 </a>
 
 </details> -->
 
-##  :purple_heart: Stack
+<hr/>
 
+##  :purple_heart: Stack
 
 <!--파이썬 -->
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> _ 파이썬 기초 문법 및 응용 알고리즘 문제를 풀 수 있습니다.
@@ -87,3 +90,5 @@ The latest article 💨 </a>
 </div>
 </div>
 <!-- </div> -->
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=Now%20hire%20me!&fontSize=90)
