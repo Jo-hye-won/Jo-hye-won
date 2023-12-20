@@ -82,8 +82,7 @@ The latest article 💨 </a>
 10회 이상의 merge conflict해결을 해보았습니다.
 
 <!-- VSCode -->
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"> _ 주로 사용하는 편집기입니다. 다양한 익스텐션을 깔아서 사용할 줄 압니다.
- 
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"> _ 주로 사용하는 편집기입니다. 다양한 익스텐션을 깔아서 사용하고 있습니다.  
    <br/>
    <br/>
 
