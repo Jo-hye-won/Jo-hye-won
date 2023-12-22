@@ -1,5 +1,5 @@
 <!-- <div align="center">  -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Welcome%20%20%20my%20%20%20profile😊&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Welcome%20%20%20my%20%20%20profile😶&fontSize=70)
 ![Alt text](image-1.png)
 <!-- &color=B897FF -->
 <!-- #  Welcome my github profile :wave: -->
@@ -62,10 +62,10 @@ The latest article 💨 </a>
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> _ bootstrap에서의 CSS 및 JS 사용법을 알고 응용할 줄 압니다.
 
 <!-- Django -->
- <img src="https://img.shields.io/badge/django-6DB33F?style=for-the-badge&logo=django&logoColor=white"> - DRF 및 Django-rest-auth 사용 및 응용이 가능합니다.(Django-rest-auth를 사용한 프로젝트 진행경험 有)
+ <img src="https://img.shields.io/badge/django-6DB33F?style=for-the-badge&logo=django&logoColor=white"> _ DRF 및 Django-rest-auth 사용 및 응용이 가능합니다.(Django-rest-auth를 사용한 프로젝트 진행경험 有)
 
 <!-- vue.js -->
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"> _Router와 Pinia 사용법을 알고있으며 Single-File Components에 대해 이해하고 있습니다.(Vue3를 이용한 프로젝트 진행 경험 有)
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"> _ Router와 Pinia 사용법을 알고있으며 Single-File Components에 대해 이해하고 있습니다.(Vue3를 이용한 프로젝트 진행 경험 有)
 
 
 <!-- 자바스크립트 -->
