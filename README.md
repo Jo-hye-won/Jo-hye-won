@@ -94,5 +94,3 @@ The latest article 💨 </a>
 </div>
 </div>
 <!-- </div> -->
-
-![footer](https://capsule-render.vercel.app/api?type=wave&height=200&section=footer&text=Now,%20how%20about%20hiring%20me?&fontSize=50)
