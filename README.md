@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&height=75&lines=Who+I+am?🤗&font=Redressed&size=40)](https://git.io/typing-svg) 
 
 
-![Alt text](image-1.png)
 <!-- &color=B897FF -->
 <!-- #  Welcome my github profile :wave: -->
 
