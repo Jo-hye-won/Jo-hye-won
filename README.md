@@ -2,8 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Welcome%20%20%20my%20%20%20profile&fontSize=70)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&height=75&lines=Who+I+am?🤗&font=Redressed&size=40)](https://git.io/typing-svg) 
-
 
 <!-- &color=B897FF -->
 <!-- #  Welcome my github profile :wave: -->
